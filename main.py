@@ -12,6 +12,7 @@ def print_hi(name):
     print(f'Hi world!4')
     print(f'hot fix test!')
     print(f'hot fix test!1')
+    print(f'ttt')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
