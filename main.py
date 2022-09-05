@@ -14,6 +14,7 @@ def print_hi(name):
     print(f'hot fix test!1')
     print(f'ttt')
     print(f'push ttt')
+    print(f'pull commit')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
